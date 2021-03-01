@@ -16,8 +16,8 @@
 
 ### Thành viên nhóm
 
-| STT | Họ tên | MSSV | Email | Github |
-| :---: | --- | --- | --- | --- |
-| 1 | Cao Hưng Phú | 19520214 | 19520214@gm.uit.edu.vn | [caohungphu](https://github.com/caohungphu) |
-| 2 | Nguyễn Thành Công | 19521294 | 19521294@gm.uit.edu.vn | [Tfushimura](https://github.com/Tfushimura) |
-| 3 | Trần Huỳnh Kỳ Anh | 19521216 | 19521216@gm.uit.edu.vn | [tranhuynhkyanh](https://github.com/tranhuynhkyanh) |
+| STT | Họ tên | MSSV | Email | Github | Facebook |
+| :---: | --- | --- | --- | --- | --- |
+| 1 | Cao Hưng Phú | 19520214 | 19520214@gm.uit.edu.vn | [caohungphu](https://github.com/caohungphu) | [caohungphuvn](https://www.facebook.com/caohungphuvn) |
+| 2 | Nguyễn Thành Công | 19521294 | 19521294@gm.uit.edu.vn | [Tfushimura](https://github.com/Tfushimura) | [cong.troller](https://www.facebook.com/cong.troller) |
+| 3 | Trần Huỳnh Kỳ Anh | 19521216 | 19521216@gm.uit.edu.vn | [tranhuynhkyanh](https://github.com/tranhuynhkyanh) | [tranhuynhkyanh](https://www.facebook.com/tranhuynhkyanh) |
