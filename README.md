@@ -12,7 +12,7 @@
 
 ### Giảng viên
 * PGS.TS. Lê Đình Duy - duyld@uit.edu.vn
-* ThS. Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
+* Ths. Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
 
 ### Thành viên nhóm
 
@@ -21,3 +21,6 @@
 | 1 | Cao Hưng Phú | 19520214 | 19520214@gm.uit.edu.vn | [caohungphu](https://github.com/caohungphu) | [caohungphuvn](https://www.facebook.com/caohungphuvn) |
 | 2 | Nguyễn Thành Công | 19521294 | 19521294@gm.uit.edu.vn | [Tfushimura](https://github.com/Tfushimura) | [cong.troller](https://www.facebook.com/cong.troller) |
 | 3 | Trần Huỳnh Kỳ Anh | 19521216 | 19521216@gm.uit.edu.vn | [tranhuynhkyanh](https://github.com/tranhuynhkyanh) | [tranhuynhkyanh](https://www.facebook.com/tranhuynhkyanh) |
+
+<!-- Xin đừng copy :D. Please don't copy :D -->
+<!-- Copyright © 2021 - By Hưng Phú - 19520214. -->
