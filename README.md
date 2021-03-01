@@ -1,9 +1,9 @@
 # CS114.L21 - MÁY HỌC - MACHINE LEARNING
 
 ## Bảng mục lục
-* [Giới thiệu](#Giới-thiệu)
-* [Giảng viên](#Giảng-viên)
-* [Thành viên](#Thành-viên)
+* [Giới thiệu](#giới-thiệu)
+* [Giảng viên](#giảng-viên)
+* [Thành viên](#thành-viên)
 
 ## Giới thiệu
 * Tên môn học: MÁY HỌC - MACHINE LEARNING
