@@ -8,7 +8,7 @@
 ## Giới thiệu
 * Tên môn học: MÁY HỌC - MACHINE LEARNING
 * Mã lớp: CS114.L21
-* Năm học: HKII(2020-2021)
+* Năm học: HK2 (2020-2021)
 
 ### Giảng viên
 * PGS.TS. Lê Đình Duy - duyld@uit.edu.vn
