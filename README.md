@@ -15,6 +15,7 @@
 * ThS. Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
 
 ### Thành viên nhóm
+| :---: | :---: | :---: | :---: |
 | STT | Họ tên | MSSV | Email |
 | :---: | :--- | :---: | :--- |
 | 1 | Cao Hưng Phú | 19520214 | 19520214@gm.uit.edu.vn |
