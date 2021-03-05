@@ -25,7 +25,7 @@
 | STT | Họ tên | Email |
 | :---: | --- | --- |
 | 1 | **PGS.TS. Lê Đình Duy** | *duyld@uit.edu.vn* |
-| 2 | **Ths. Phạm Nguyễn Trường An*** | *truonganpn@uit.edu.vn* |
+| 2 | **Ths. Phạm Nguyễn Trường An** | *truonganpn@uit.edu.vn* |
 
 ## THÀNH VIÊN NHÓM
 | STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
