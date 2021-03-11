@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
-    <img src="https://www.uit.edu.vn/sites/vi/files/banner_uit_0.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
+    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 | 3 | Trần Huỳnh Kỳ Anh | 19521216 | Thành viên | *19521216@gm.uit.edu.vn* | [tranhuynhkyanh](https://github.com/tranhuynhkyanh) | [tranhuynhkyanh](https://www.facebook.com/tranhuynhkyanh) |
 
 ## ĐỒ ÁN CUỐI KỲ
-* **Tên đồ án:** SỐ HÓA TỦ SÁCH
+* **Tên đồ án:** ĐEO KHẨU TRANG ĐÚNG CÁCH
 
 <!-- Footer -->
 `Copyright © 2021`
