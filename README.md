@@ -9,7 +9,7 @@
 <h1 align="center"><b>CS114.L21 - MÁY HỌC - MACHINE LEARNING</b></h1>
 
 [![Status](https://img.shields.io/badge/status-woking-brightgreen?style=flat-square)](https://github.com/caohungphu/CS114.L21)
-[![GitHub contributors](https://img.shields.io/github/contributors/caohungphu/CS112.L21?style=flat-square)](https://github.com/caohungphu/CS114.L21/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/caohungphu/CS114.L21?style=flat-square)](https://github.com/caohungphu/CS114.L21/graphs/contributors)
 [![Status](https://img.shields.io/badge/language-python-green?style=flat-square)](https://github.com/caohungphu/CS114.L21)
 
 <!-- Main -->
