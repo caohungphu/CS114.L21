@@ -1,6 +1,6 @@
 ## THÔNG TIN THƯ MỤC COLAB
 
- [x] [BÀI TẬP COLAB SỐ 01 (12/04/2021)](Recognizing_hand_written_digits.ipynb)
+ - [x] [BÀI TẬP COLAB SỐ 01 (12/04/2021)](Recognizing_hand_written_digits.ipynb)
   
 <!-- Footer -->
 `Copyright © 2021`
