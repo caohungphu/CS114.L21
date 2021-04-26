@@ -32,3 +32,15 @@
 - Output: Chỉ số tiêu thụ điện của tháng cần dự đoán
 - Cách thu thập data: Ghi nhận chỉ số tiêu thụ điện qua từng tháng
 - Cách xử lí data: Gom nhóm dữ liệu từng tháng vào cùng 1 file CSV
+
+### Bài toán 3: Dự đoán điểm kiểm tra cuối kì
+- Input: Điểm quá trình, giữa kì, thực hành (Kiểu số thực)
+- Output: Điểm cuối kì (Kiểu số thực)
+- Cách thu thập data:
+  - Tạo form điền thông tin khảo sát
+  - Xin dữ liệu từ phòng đào tạo
+  - Xin dữ liệu từ giáo viên bộ môn
+- Cách xử lí data:
+  + Gom nhóm các dữ liệu báo cáo doanh thu hằng tháng vào cùng 1 file CSV
+  + Xóa các dòng mà thuộc tính không có giá trị (NULL)
+  + Xóa các dòng mà thuộc tính có giá trị âm hoặc lớn hơn 10 (Điểm dao động từ 0 -> 10)
