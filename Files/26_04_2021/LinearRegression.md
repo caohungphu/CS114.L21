@@ -34,8 +34,10 @@
 - Input: Chi phí quảng cáo trên tivi, báo, mạng xã hội (Kiểu số thực)
 - Output: Doanh thu sản phẩm được quảng cáo (Kiểu số thực)
 - Cách thu thập data: Thu thập bộ dữ liệu thực về doanh thu theo chi phí quảng cáo từ các công ty
-- Cách xử lí data: Gom nhóm dữ liệu chi phí quảng cáo và doanh thu vào cùng 1 file CSV
-
+- Cách xử lí data: 
+  + Gom nhóm dữ liệu chi phí quảng cáo và doanh thu vào cùng 1 file CSV
+  + Xóa các dòng mà thuộc tính không có giá trị (NULL)
+  + Xóa các dòng mà thuộc tính có giá trị âm 
 ### Bài toán 3: Dự đoán điểm kiểm tra cuối kì
 - Input: Điểm quá trình, giữa kì, thực hành (Kiểu số thực)
 - Output: Điểm cuối kì (Kiểu số thực)
