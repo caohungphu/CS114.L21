@@ -21,11 +21,14 @@
 
 ## BÀI LÀM:
 
-### Bài toán 1: Dự đoán doanh số trong tháng tiếp theo
-- Input: Doanh số các tháng trước đó
-- Output: Doanh số của tháng tiếp theo
-- Cách thu thập data: Lấy dữ liệu từ báo cáo doanh thu hằng tháng
-- Cách xử lí data: Gom nhóm các dữ liệu báo cáo doanh thu hằng tháng vào cùng 1 file CSV
+### Bài toán 1: Dự đoán sản lượng nông sản dựa trên số lượng phân bón
+- Input: Lượng phân bón của từng loại phân trên một km2
+- Output: Sản lượng nông sản (kg)
+- Cách thu thập data: 
+  - Tạo form điền thông tin khảo sát cho nông dân
+  - Xin dữ liệu từ nhà máy nông sản, công trường
+  - Xin dữ liệu từ các đại lý phân bón
+- Cách xử lí data: Gom nhóm các dữ liệu về phân bón, sản lượng theo từng mùa vụ vào cùng 1 file CSV
 
 ### Bài toán 2: Dự đoán chỉ số tiêu thụ điện
 - Input: Chỉ số tiêu thụ điện của các tháng qua từng năm
