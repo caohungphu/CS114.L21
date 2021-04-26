@@ -49,6 +49,6 @@
   - Xin dữ liệu từ phòng đào tạo
   - Xin dữ liệu từ giáo viên bộ môn
 - Cách xử lí data:
-  + Gom nhóm các dữ liệu báo cáo doanh thu hằng tháng vào cùng 1 file CSV
+  + Gom nhóm các dữ liệu vào cùng 1 file CSV
   + Xóa các dòng mà thuộc tính không có giá trị (NULL)
   + Xóa các dòng mà thuộc tính có giá trị âm hoặc lớn hơn 10 (Điểm dao động từ 0 -> 10)
