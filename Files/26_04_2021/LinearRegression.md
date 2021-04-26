@@ -22,7 +22,7 @@
 ## BÀI LÀM:
 
 ### Bài toán 1: Dự đoán sản lượng nông sản dựa trên số lượng phân bón
-- Input: Lượng phân bón của từng loại phân trên một km2
+- Input: Lượng phân bón của từng loại phân trên một ![km^2](https://latex.codecogs.com/svg.latex?km^2)
 - Output: Sản lượng nông sản (kg)
 - Cách thu thập data: 
   - Tạo form điền thông tin khảo sát cho nông dân
