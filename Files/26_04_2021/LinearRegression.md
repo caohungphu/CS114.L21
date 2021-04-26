@@ -41,7 +41,7 @@
   + Gom nhóm dữ liệu chi phí quảng cáo và doanh thu vào cùng 1 file CSV
   + Xóa các dòng mà thuộc tính không có giá trị (NULL)
   + Xóa các dòng mà thuộc tính có giá trị âm 
-### Bài toán 3: Dự đoán điểm kiểm tra cuối kì
+### Bài toán 3: Dự đoán điểm kiểm tra cuối kì dựa trên điểm quá trình, giữa kì và thực hành
 - Input: Điểm quá trình, giữa kì, thực hành (Kiểu số thực)
 - Output: Điểm cuối kì (Kiểu số thực)
 - Cách thu thập data:
