@@ -28,7 +28,10 @@
   - Tạo form điền thông tin khảo sát cho nông dân
   - Xin dữ liệu từ nhà máy nông sản, công trường
   - Xin dữ liệu từ các đại lý phân bón
-- Cách xử lí data: Gom nhóm các dữ liệu về phân bón, sản lượng theo từng mùa vụ vào cùng 1 file CSV
+- Cách xử lí data:
+  - Gom nhóm các dữ liệu về phân bón, sản lượng theo từng mùa vụ vào cùng 1 file CSV
+  - Xóa các dòng mà thuộc tính không có giá trị (NULL)
+  - Xóa các dòng mà thuộc tính có giá trị âm 
 
 ### Bài toán 2: Dự đoán doanh thu sản phẩm dựa trên chi phí quảng cáo
 - Input: Chi phí quảng cáo trên tivi, báo, mạng xã hội (Kiểu số thực)
