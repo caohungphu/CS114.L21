@@ -10,14 +10,14 @@
 <h1 align="center"><b>TÊN ĐỒ ÁN: NHẬN DIỆN CHỮ VIẾT TAY TIẾNG VIỆT</b></h1>
 
 ## 1. MÔ TẢ BÀI TOÁN
-- Trong thời đại nước ta đang phát triển chính phủ số, chính quyền số. Việc số hoá dữ liệu tức  chuyển đổi dữ liệu từ dạng văn bản hệ thống bên ngoài thành những dữ liệu lưu trữ trong máy tính là rất cần thiết. Hay đơn giản một công ty muốn lưu giữ tất cả hợp đồng tài liệu viết tay cho các phòng ban của công ty.
-- Vì vậy để góp phần đẩy nhanh quá trình số hoá, nhóm em hướng tới tận dụng sự phát triển của Machine Learning để thực hiện quá trình này bằng cách xây dựng mô hình chuyển hình ảnh chữ viết tay tiếng việt thành văn bản lưu trên máy tính.
-* Input: Hình ảnh dòng chữ viết tay
-* Output: Kết quả chữ viết tay nhận diện được. 
-
+- Khi mà việc đọc sách ngày càng trở nên phổ biến, thì nhu cầu lưu trữ thông tin về sách mình đã đọc để kiểm tra, chia sẽ, trao đổi hay mua bán ngày càng nhiều. Khi lượng sách quá nhiều thì việc nhập liệu sẽ mất thời gian hơn, cho nên để hỗ trợ cho việc này nhóm em quyết định xây dựng công cụ khi chụp vào một tấm ảnh bìa sách thì sẽ xuất ra dòng text chứa các thông tin về cuốn sách đó (tác giả, tên sách, nhà xuất bản, năm xuất bản) 
+* Input: Ảnh bìa của một cuốn sách. 
+* Output: Dòng text chứa các thông tin về cuốn sách đó (tác giả, tên sách, nhà xuất bản, năm xuất bản) 
 ## 2. MÔ TẢ VỀ BỘ DỮ LIỆU
-- Thu thập dữ liệu: Tự xây dựng bằng cách xin hình ảnh về chữ viết tay từ tập vở của những người xung quanh. Sau đó sẽ gán nhãn cho từng ảnh chụp các dòng chữ.
-- Số lượng: 5000 dòng chữ từ 50 người.
+- Thu thập dữ liệu: 
+ + Chụp ảnh bìa sách từ các nhà sách.
+ + Thu thập ảnh bìa sách của người mua sách đánh giá trên các trang bán hàng.
+- Số lượng: 2000 cuốn sách, mỗi cuốn 2-3 tấm.
 - Phân chia: 
   + 70% train
   + 20% validation
