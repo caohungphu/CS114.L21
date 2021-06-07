@@ -48,7 +48,7 @@ def getDataFromPage(day, month, year):
 
 if __name__ == "__main__":
     year = 2021
-    year_stop = 2019
+    year_stop = 2020
     while year > year_stop - 1:
         month = 12
         if year == 2021:
