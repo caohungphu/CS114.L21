@@ -9,7 +9,7 @@ def getArticleFromPage(month, year):
     API_url = "https://api.nytimes.com/svc/archive/v1/{}/{}.json?api-key={}".format(str(year), str(month), API_KEY)
     headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36'}
     response = requests.get(API_url, headers = headers)
-    return response.json()['response']['docs']
+    return response.json()['response']['docs'][:500] #Mỗi tháng tối đa 500
 
 def getHeadlineDataFormArticle(soupArticle):
     result = []
@@ -38,7 +38,7 @@ def getDataFromPage(month, year):
 
 if __name__ == "__main__":
     year = 2021
-    year_stop = 2020
+    year_stop = 2017
     while year > year_stop - 1:
         if year == 2021:
             month = 6
