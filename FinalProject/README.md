@@ -7,7 +7,7 @@
 
 <!-- Title -->
 <h1 align="center"><b>ĐỒ ÁN CUỐI KỲ</b></h1>
-<h1 align="center"><b>TÊN ĐỒ ÁN: NHẬN DIỆN CHỮ VIẾT TAY TIẾNG VIỆT</b></h1>
+<h1 align="center"><b>TÊN ĐỒ ÁN: SỐ HOÁ TỦ SÁCH</b></h1>
 
 ## 1. MÔ TẢ BÀI TOÁN
 - Khi mà việc đọc sách ngày càng trở nên phổ biến, thì nhu cầu lưu trữ thông tin về sách mình đã đọc để kiểm tra, chia sẽ, trao đổi hay mua bán ngày càng nhiều. Khi lượng sách quá nhiều thì việc nhập liệu sẽ mất thời gian hơn, cho nên để hỗ trợ cho việc này nhóm em quyết định xây dựng công cụ khi chụp vào một tấm ảnh bìa sách thì sẽ xuất ra dòng text chứa các thông tin về cuốn sách đó (tác giả, tên sách, nhà xuất bản, năm xuất bản) 
