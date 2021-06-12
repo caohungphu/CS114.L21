@@ -39,7 +39,8 @@
 | 3 | Trần Huỳnh Kỳ Anh | 19521216 | Thành viên | *19521216@gm.uit.edu.vn* | [tranhuynhkyanh](https://github.com/tranhuynhkyanh) | [tranhuynhkyanh](https://www.facebook.com/tranhuynhkyanh) |
 
 ## ĐỒ ÁN CUỐI KỲ
-* **Tên đồ án:** ĐEO KHẨU TRANG ĐÚNG CÁCH
+* **Tên đồ án:** SỐ HOÁ TỦ SÁCH
+* **Thư mục:** [FinalProject](FinalProject)
 
 <!-- Footer -->
 `Copyright © 2021`
