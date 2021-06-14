@@ -35,7 +35,8 @@ def getDataFromPage(page):
     print("\n")
 
 if __name__ == "__main__":
-    page = 1
-    while page < 210: #14/06/2021
+    page = 210 #14/06/2021
+    page_stop = 100
+    while page > page_stop: #14/06/2021
         getDataFromPage(page)
-        page += 1
+        page -= 1
