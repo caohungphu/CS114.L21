@@ -3,8 +3,8 @@
 import csv
 import json
 
-csvfile = open('Sarcasm_Detection_Full.csv', 'r', encoding="UTF-8")
-jsonfile = open('Sarcasm_Detection_Full.json', 'w', encoding="UTF-8")
+csvfile = open('Test_Sarcasm_Detection_Full.csv', 'r', encoding="UTF-8")
+jsonfile = open('Test_Sarcasm_Detection_Full.json', 'w', encoding="UTF-8")
 
 
 reader = csv.DictReader(csvfile)
