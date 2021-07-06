@@ -7,21 +7,20 @@
 
 <!-- Title -->
 <h1 align="center"><b>ĐỒ ÁN CUỐI KỲ</b></h1>
-<h1 align="center"><b>TÊN ĐỒ ÁN: SỐ HOÁ TỦ SÁCH</b></h1>
+<h1 align="center"><b>TÊN ĐỒ ÁN: PHÁT HIỆN CHÁY THÔNG QUA HÌNH ẢNH</b></h1>
 
 ## 1. MÔ TẢ BÀI TOÁN
-- Khi mà việc đọc sách ngày càng trở nên phổ biến, thì nhu cầu lưu trữ thông tin về sách mình đã đọc để kiểm tra, chia sẽ, trao đổi hay mua bán ngày càng nhiều. Khi lượng sách quá nhiều thì việc nhập liệu sẽ mất thời gian hơn, cho nên để hỗ trợ cho việc này nhóm em quyết định xây dựng công cụ khi chụp vào một tấm ảnh bìa sách thì sẽ xuất ra dòng text chứa các thông tin về cuốn sách đó (tác giả, tên sách, nhà xuất bản, năm xuất bản) 
-* Input: Ảnh bìa của một cuốn sách. 
-* Output: Dòng text chứa các thông tin về cuốn sách đó (tác giả, tên sách, nhà xuất bản, năm xuất bản) 
+- Từ trước đến nay, cháy vẫn luôn là một tai nạn gây thiệt hại nghiêm trọng đến tính mạng, tài sản của người dân. Vì vậy để đảm bảo an toàn, tín hiệu báo cháy phải được phát hiện chính xác và trong thời gian sớm nhất có thể. Tuy nhiên các thiết bị báo cháy truyền thống dựa trên nhiệt độ hay khói dễ bị ảnh hưởng bởi các yếu tố của môi trường như độ cao đặt thiết bị hay bụi,... Do đó, nhóm em xây dựng một thuật toán để phát hiện cháy thông qua hình ảnh dựa trên Image Classification.
+* Input: Một bức ảnh bất kỳ.
+* Output: Một con số 1 hoặc 0 đại diện cho có hay không sự xuất hiện của đám cháy trong bức hình.
 ## 2. MÔ TẢ VỀ BỘ DỮ LIỆU
 - Thu thập dữ liệu: 
- + Chụp ảnh bìa sách từ các nhà sách.
- + Thu thập ảnh bìa sách của người mua sách đánh giá trên các trang bán hàng.
-- Số lượng: 2000 cuốn sách, mỗi cuốn 2-3 tấm.
+ + Nhóm tự crawl hình ảnh có cháy và không có cháy từ google.
+- Số lượng: 3300 ảnh có cháy, gần 2000 ảnh không có cháy.
 - Phân chia: 
-  + 70% train
+  + 60% train
   + 20% validation
-  + 10% test.
+  + 20% test.
 - Các thao tác tiền xử lý dữ liệu:
   + Chuẩn hoá kích thước ảnh.
   + Remove noise,background, chuyển hình ảnh về hai màu đen trắng.
