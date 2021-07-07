@@ -39,7 +39,7 @@
 | 3 | Trần Huỳnh Kỳ Anh | 19521216 | Thành viên | *19521216@gm.uit.edu.vn* | [tranhuynhkyanh](https://github.com/tranhuynhkyanh) | [tranhuynhkyanh](https://www.facebook.com/tranhuynhkyanh) |
 
 ## ĐỒ ÁN CUỐI KỲ
-* **Tên đồ án:** SỐ HOÁ TỦ SÁCH
+* **Tên đồ án:** PHÁT HIỆN CHÁY THÔNG QUA HÌNH ẢNH
 * **Thư mục:** [FinalProject](FinalProject)
 
 <!-- Footer -->
