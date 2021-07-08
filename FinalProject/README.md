@@ -16,14 +16,16 @@
 ## 2. MÔ TẢ VỀ BỘ DỮ LIỆU
 - Thu thập dữ liệu: 
  + Nhóm tự crawl hình ảnh có cháy và không có cháy từ google.
-- Số lượng: 3300 ảnh có cháy, gần 2000 ảnh không có cháy.
+- Số lượng: 3600 ảnh có cháy, 2175 ảnh không có cháy.
+- Dữ liệu ảnh có cháy sẽ bao gồm lửa to, lửa nhỏ, khói nhiều, khói ít được lấy từ ảnh (cháy rừng, cháy xe, cháy nhà, ngọn lửa từ nến, từ hột quẹt,..) trong điều kiện ngày và đêm, từ góc chụp camera an ninh, góc chụp thẳng, góc chụp từ trên cao để đảm bảo bao quát được tất cả trường hợp.
+- Dữ liệu ảnh không cháy sẽ bao gồm cây xanh, công trình, con người, xe cộ, các hàng quán,... trong các điều kiện sáng, tối và có khói, không khói từ nhiều góc chụp camera an ninh, góc chụp thẳng, góc chụp từ trên cao.
 - Phân chia: 
   + 60% train
   + 20% validation
   + 20% test.
 - Các thao tác tiền xử lý dữ liệu:
   + Chuẩn hoá kích thước ảnh.
-  + Remove noise,background, chuyển hình ảnh về hai màu đen trắng.
+  + Remove noise,background.
   
  ## 3. MÔ TẢ VỀ ĐẶC TRƯNG
 
